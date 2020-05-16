@@ -29,9 +29,10 @@
     <li>Aims at training Machine-Models with different types of Alogrithm with respective tuning parameters.</li>
     <li>Also aims at final analysis of all the Algorithm to select which among them is best suit for data provided.</li>
 </ul>
+
 --------------------------------
 
-### Setup Requirement to Run <a href=""</a>
+### Setup Requirement to Run Project(ipynb files):
 
 <ol type="number">
     <li> 3.6  Python version <a href="https://www.anaconda.com/products/individual">Jupyter Notebook</a> with following libraries installed using "pip install library_name" command in conda teminal.
