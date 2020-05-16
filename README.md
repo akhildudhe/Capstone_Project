@@ -4,7 +4,7 @@
                                                     - Akhil Dudhe
 
 -----------------------------
-### Objectives of this project to build Machine Learning Model to predict the happenings in Auto Insurance Industry with<a href="https://www.kaggle.com/c/auto-insurance-fall-2017/data"> Kaggle dataset</a> with following methods:
+### Objectives of this project to build Machine Learning Model to predict the happenings in Auto Insurance Industry with<a href="https://www.kaggle.com/c/auto-insurance-fall-2017/data"> Kaggle dataset</a> with following methodologies:
 
 1. Exploratory Data Analysis[EDA]. 
 2. Machine-Learning Modelling.
